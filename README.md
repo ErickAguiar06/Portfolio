@@ -44,8 +44,6 @@ cd portfolio
 # Abra o index.html em seu navegador (clique duas vezes ou use um servidor local)
 ```
 
-### 🌐 Acessar Online (GitHub Pages)
+### 🌐 Acessar Online (GitHub Pages)ar o projeto diretamente pelo link no botão **"About"** do repositório, no canto superior direito da página GitHub:
 
-Você também pode acessar o projeto diretamente pelo link no botão **"About"** do repositório, no canto superior direito da página GitHub:
-
-➡️ [https://seu-usuario.github.io/portfolio](https://seu-usuario.github.io/portfolio)
+➡️ [https://seu-usuario.github.io/portfolio](https://erickaguiar06.github.io/Portfolio/)
